@@ -52,7 +52,10 @@ Each session includes both modes to allow direct comparison.
 
 ## Screenshots
 
-*(Add screenshots here)*
+## Screenshots
+
+![Tutor Interface](screenshots/ui.png)
+![Results Screen](screenshots/results.png)
 
 ---
 
