@@ -50,12 +50,11 @@ Each session includes both modes to allow direct comparison.
 
 ---
 
-## Screenshots
 
 ## Screenshots
 
-![Tutor Interface](screenshots/ui.png)
-![Results Screen](screenshots/results.png)
+![Tutor Interface](Screenshots/ui.png)
+![Results Screen](Screenshots/results.png)
 
 ---
 
