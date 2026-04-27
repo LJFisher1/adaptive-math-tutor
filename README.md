@@ -58,6 +58,10 @@ Each session includes both modes to allow direct comparison.
 
 ---
 
+## Video Demo
+
+[Watch Demo](https://youtu.be/05Ol4yJksYI)
+
 ## Notes
 
 This repository represents my personal implementation of an academic capstone project, including system design, adaptive logic, and telemetry integration.
